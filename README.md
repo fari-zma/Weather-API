@@ -1,3 +1,3 @@
 # **Weather-API**
 
-![](assests/Weather-API.gif)
+![](assets/Weather-API.gif)
